@@ -1,0 +1,6 @@
+*.docx
+*-checkpoint.ipynb
+*.txt
+*.npz
+*.npy
+*.pyc
